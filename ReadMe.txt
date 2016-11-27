@@ -1,0 +1,1 @@
+The Yatzhee game can play up to 5 players, including computer players. Use google to find out on how to play the game(how it works). Other than that, the game has the different strategies and can be saved and later be resumed at another time by entering the location to that specific file. After each player has played 1 round, you get a chance to save the game. 
